@@ -1,1 +1,12 @@
-this is prac2 file
+this is prac2 file 
+mkdir pract2
+cd  pract2
+git clone <http url>
+cd repo-name
+git status
+git pull origin main
+echo "this is pract2" > read2.txt
+git add .
+git commit -m "message" 
+git push orgin feature-report
+
